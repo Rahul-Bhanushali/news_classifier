@@ -1,3 +1,4 @@
+absl-py==0.14.1
 argcomplete @ file:///tmp/build/80754af9/argcomplete_1618920853202/work
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
 astunparse==1.6.3
